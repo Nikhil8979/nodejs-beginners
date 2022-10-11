@@ -1,0 +1,2 @@
+npm init --y for package json file
+npm i mysql2 express cors these are the three basic packages 
